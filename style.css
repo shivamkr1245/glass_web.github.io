@@ -155,8 +155,8 @@
   transform: rotate(180%);
 }
 .SVG{
-  /* width: 50%;
-  height: auto; */
+  width: 50%;
+  height: auto; 
   animation-name: up-down;
   animation-duration: 7s;
   animation-delay: 2s;
@@ -182,7 +182,6 @@
 }
 .four{
   grid-area: four;
-  width: 50%;
   height: auto;
   display: flex;
   flex-flow: row nowrap;
