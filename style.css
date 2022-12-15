@@ -181,6 +181,7 @@
    }
 }
 .four{
+  justify-self: start;
   grid-area: four;
   height: auto;
   display: flex;
